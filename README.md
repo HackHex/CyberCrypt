@@ -2,7 +2,6 @@
 .NET Library for Encryption/Decryption
 
 # Ussage
-======
 
 Encrypting file using AES (256 bits).
 `CyberCrypt._AES256.EncryptFile("C:\example.txt", "YourPassword")`
